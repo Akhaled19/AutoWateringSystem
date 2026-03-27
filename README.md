@@ -49,15 +49,16 @@ The system is designed to be adaptive, starting with default moisture ranges and
 **1. Moisture Interpretation**
 
 The capacitive sensor outputs:
-
-    High value → Dry soil </br>
-    Low value → Wet soil </br>
+ ```
+ High value → Dry soil
+ Low value → Wet soil 
+ ```
 
 Values are mapped to a percentage:
-    ```
-    0%   → Very Dry
-    100% → Fully Wet
-    ```
+ ```
+ 0%   → Very Dry
+ 100% → Fully Wet
+ ```
 
 **2. Control Logic**
 
