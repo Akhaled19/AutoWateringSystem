@@ -50,6 +50,9 @@ The system is designed to be adaptive, starting with default moisture ranges and
 1. Arduino IDE
 2. C++ (Arduino framework)
 
+<img width="987" height="659" alt="Screenshot 2026-03-28 at 2 00 12 AM" src="https://github.com/user-attachments/assets/9b5f398a-1bc0-4b14-9ded-48e740f4466c" />
+
+
 ### 🧠 System Design
 
 **1. Moisture Interpretation**
